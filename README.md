@@ -1,1 +1,1 @@
-This  is a front-end based site built using Html,CSS,Javascript.
+Implemented user-friendly interfaces for event browsing, booking and management.Technologies Used: Html, CSS, JavaScript, Bootstrap
